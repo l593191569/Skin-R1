@@ -1,0 +1,21 @@
+{
+  "excluded_images": [
+    "Fitzpatrick's dermatology NEOPLASIA_00023_00507.png",
+    "Fitzpatrick's dermatology NEOPLASIA_00023_00508.png",
+    "Fitzpatrick's dermatology NEOPLASIA_00023_00510.png",
+    "Fitzpatrick's dermatology NEOPLASIA_00023_00511.png",
+    "Fitzpatrick's dermatology NEOPLASIA_00026_00552.png",
+    "Fitzpatrick's dermatology NEOPLASIA_00064_00930.png",
+    "Fitzpatrick's dermatology NEOPLASIA_00064_01231.png"
+  ],
+  "excluded_indices": [
+    20,
+    21,
+    22,
+    23,
+    25,
+    47,
+    48
+  ],
+  "timestamp": "2024-01-15T10:30:00.000Z"
+}

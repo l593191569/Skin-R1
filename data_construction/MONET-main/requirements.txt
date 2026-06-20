@@ -1,0 +1,26 @@
+# --------- pytorch --------- #
+torch>=1.10.0
+torchvision>=0.11.0
+
+# --------- scientific --------- #
+scikit-learn
+numpy
+pandas
+
+# --------- visualization --------- #
+matplotlib
+seaborn
+tqdm
+
+# --------- Huggingface --------- #
+transformers==4.39.1
+huggingface-hub==0.22.0
+tokenizers==0.15.2
+
+# --------- clip --------- #
+ftfy
+regex
+
+# --------- jupyter --------- #
+jupyter
+notebook

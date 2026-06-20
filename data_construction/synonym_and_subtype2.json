@@ -1,0 +1,520 @@
+{
+    "synonym_map": {
+      "seborrheic keratoses": "seborrheic keratosis",
+      "reticulated seborrheic keratoses": "reticulated seborrheic keratosis",
+  
+      "inflammatory linear verrucous epidermal nevus (ilven)": "inflammatory linear verrucous epidermal nevus",
+  
+      "trichilemmal (pilar) cyst": "pilar cyst",
+      "trichilemmal cyst": "pilar cyst",
+  
+      "epidermal cyst": "epidermoid cyst",
+      "epidermal inclusion cyst": "epidermoid cyst",
+      "infundibular cyst": "epidermoid cyst",
+  
+      "sebaceous nevus": "nevus sebaceous",
+      "nevus sebaceus": "nevus sebaceous",
+  
+      "linear epidermal nevus": "keratinocytic epidermal nevus",
+  
+      "cnh": "chondrodermatitis nodularis helicis",
+  
+      "milium": "milia",
+      "comedo nevus": "nevus comedonicus",
+      "pilomatrixoma": "pilomatricoma",
+    "epithelioma calcificans of malherbe": "pilomatricoma",
+    "epithelioma of malherbe": "pilomatricoma",
+
+    "apocrine hidrocystoma": "hidrocystoma",
+    "eccrine hidrocystoma": "hidrocystoma",
+
+    "clear cell hidradenoma": "hidradenoma",
+    "nodular hidradenoma": "hidradenoma",
+    "apocrine hidradenoma": "hidradenoma",
+    "eccrine hidradenoma": "hidradenoma",
+    "acrospiroma": "hidradenoma",
+    "poroid hidradenoma": "hidradenoma",
+
+    "eccrine spiradenoma": "spiradenoma",
+    "dermal cylindroma": "cylindroma",
+    "turban tumor": "cylindroma",
+    "scap": "syringocystadenoma papilliferum",
+
+    "isthmicoma": "trichilemmoma",
+
+    "sebaceous gland adenoma": "sebaceous adenoma",
+    "sebaceous gland carcinoma": "sebaceous carcinoma",
+    "meibomian gland carcinoma": "sebaceous carcinoma",
+    "meibomian carcinoma": "sebaceous carcinoma",
+    "meibomian adenocarcinoma": "sebaceous carcinoma",
+
+    "desmoplastic trichoepithelioma (dte)": "desmoplastic trichoepithelioma",
+    "actinic keratoses": "actinic keratosis",
+    "mild actinic keratoses": "mild actinic keratosis",
+    "disseminated arsenic keratoses": "disseminated arsenic keratosis",
+
+    "erythroplasia of queyrat (eq) variant of penile intraepithelial neoplasia (pin)": "erythroplasia of queyrat",
+    "genital bowen disease (gbd) variant of penile intraepithelial neoplasia (pin)": "genital bowen disease",
+    "genital bowen disease (gbd) variant of penile intraepithelial neoplasia": "genital bowen disease",
+    "superficial basal cell carcinoma (bcc)": "superficial basal cell carcinoma",
+    "basal cell carcinoma (bcc)": "basal cell carcinoma",
+    "basal cell carcinoma, rodent ulcer type": "rodent ulcer basal cell carcinoma",
+    "basal cell nevus syndrome (bcns)": "basal cell nevus syndrome",
+    
+    "squamous cell carcinoma (scc)": "squamous cell carcinoma",
+    "cutaneous squamous cell carcinoma": "squamous cell carcinoma",
+    "ka": "keratoacanthoma",
+    "keratoacanthoma-type squamous cell carcinoma": "keratoacanthoma",
+
+    
+    "mcc": "merkel cell carcinoma",
+    "primary cutaneous neuroendocrine carcinoma": "merkel cell carcinoma",
+    "trabecular carcinoma of the skin": "merkel cell carcinoma",
+    "Merkel cell carcinoma": "merkel cell carcinoma",
+
+    
+    "paget’s disease of the nipple": "paget's disease of the nipple",
+    "pagets disease of the nipple": "paget's disease of the nipple",
+    "mammary paget disease": "paget's disease of the nipple",
+    "paget disease of the nipple": "paget's disease of the nipple",
+
+    "extramammary paget’s disease": "extramammary paget's disease",
+    "extramammary paget disease": "extramammary paget's disease",
+    "empd": "extramammary paget's disease",
+
+    "perianal extramammary paget’s disease": "perianal extramammary paget's disease",
+    "perianal extramammary paget disease": "perianal extramammary paget's disease",
+    "perianal empd": "perianal extramammary paget's disease",
+
+    "compound nevomelanocytic nevi": "compound melanocytic nevus",
+    "familial aggregation of small congenital nevomelanocytic nevi": "familial aggregation of small congenital melanocytic nevi",
+    "congenital divided nevomelanocytic nevus of the eyelid": "congenital divided melanocytic nevus of the eyelid",
+
+    "junctional nevus": "junctional melanocytic nevus",
+    "junctional melanocytic nevus, compound melanocytic nevus, dermal melanocytic nevus": "melanocytic nevus",
+    "combined common blue nevus–nevomelanocytic nevus": "combined common blue nevus-melanocytic nevus",
+    "combined common blue nevus—nevomelanocytic nevus": "combined common blue nevus-melanocytic nevus",
+    "combined common blue nevus-nevomelanocytic nevus": "combined common blue nevus-melanocytic nevus",
+
+    "speckled lentiginous nevus": "nevus spilus",
+
+    "reed nevus": "pigmented spindle cell nevus",
+
+    "agminated spitz nevus": "spitz nevus (agminated)",
+
+    "lamb syndrome (carney complex)": "carney complex (lamb variant)",
+    "lentigines in lamb (carney complex) syndrome": "lentigines in carney complex",
+
+    "puva-induced lentigines": "puva-induced lentigines",
+    "stage iii melanoma": "melanoma stage iii",
+    "stage iv melanoma": "melanoma stage iv",
+    "satellite metastases": "melanoma satellite metastases",
+    "superficial spreading melanoma with braf v600e mutation": "superficial spreading melanoma (braf v600e)",
+    "lch": "langerhans cell histiocytosis",
+    "histiocytosis x": "langerhans cell histiocytosis",
+
+    "hand-schuller-christian disease": "hand-schüller-christian disease",
+    "letterer siwe disease": "letterer-siwe disease",
+
+    "rdd": "rosai-dorfman disease",
+    "sinus histiocytosis with massive lymphadenopathy": "rosai-dorfman disease",
+    "cutaneous rosai-dorfman": "rosai-dorfman disease",
+
+    "jxg": "juvenile xanthogranuloma",
+    "juvenile xanthogranulomatosis": "juvenile xanthogranuloma",
+
+    "geh": "generalized eruptive histiocytoma",
+
+    "xd": "xanthoma disseminatum",
+
+    "mrh": "multicentric reticulohistiocytosis",
+
+    "hpmh": "hereditary progressive mucinous histiocytosis",
+    "multifocal infantile hemangiomas": "multifocal infantile hemangioma",
+
+    "lumbar syndrome": "lumbar syndrome",
+    "lumbar": "lumbar syndrome",
+
+    "rapidly involuting congenital hemangioma (rich)": "rapidly involuting congenital hemangioma",
+    "noninvoluting congenital hemangioma (nich)": "noninvoluting congenital hemangioma",
+    "partially involuting congenital hemangioma": "partially involuting congenital hemangioma",
+    "Partially involuting congenital hemangioma": "partially involuting congenital hemangioma",
+
+    "kasabach-merritt phenomenon secondary to kaposiform hemangioendothelioma": "kasabach-merritt phenomenon",
+
+    "lobular capillary hemangioma": "pyogenic granuloma",
+
+    "ih": "infantile hemangioma",
+    "ih-mag": "infantile hemangioma with minimal or abortive growth",
+    "sézary syndrome": "sezary syndrome",
+    "lymphomatoid papulosis": "lymphomatoid papulosis",
+    "ctcl": "cutaneous t-cell lymphoma",
+    "primary cutaneous alcl": "primary cutaneous anaplastic large-cell lymphoma",
+    "pc-alcl": "primary cutaneous anaplastic large-cell lymphoma",
+    "pc alcl": "primary cutaneous anaplastic large-cell lymphoma",
+    "pcfcl": "primary cutaneous follicle center lymphoma",
+    "primary cutaneous follicle centre lymphoma": "primary cutaneous follicle center lymphoma",
+    "pcdlbcl, leg type": "primary cutaneous diffuse large b-cell lymphoma, leg type",
+    "primary cutaneous diffuse large b cell lymphoma, leg type": "primary cutaneous diffuse large b-cell lymphoma, leg type",
+    "extranodal natural killer/t-cell lymphoma, nasal type": "extranodal nk/t-cell lymphoma, nasal type",
+    "extranodal nk/t cell lymphoma, nasal type": "extranodal nk/t-cell lymphoma, nasal type",
+    "bpdcn": "blastic plasmacytoid dendritic cell neoplasm",
+    "blastic plasmacytoid dendritic cell neoplasm (bpdcn)": "blastic plasmacytoid dendritic cell neoplasm",
+    "patch-stage mycosis fungoides": "mycosis fungoides (early patch stage)",
+    "tumor lesions of mycosis fungoides": "mycosis fungoides (tumor stage)",
+
+    "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)": "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+    "borrelial lymphocytoma": "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+    "borrelia lymphocytoma": "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+    "lymphocytoma cutis": "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+    "lymphadenosis cutis benigna": "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+    "b-cell pseudolymphoma (borrelia-associated)": "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+
+    "t-cell pseudolymphoma": "t-cell pseudolymphoma",
+    "cutaneous t-cell pseudolymphoma": "t-cell pseudolymphoma",
+
+    "cutaneous cd4+ small-/medium-sized t-cell lymphoproliferative disorder": "cutaneous cd4+ small/medium t-cell lymphoproliferative disorder",
+    "cutaneous cd4+ small-/medium sized t-cell lymphoproliferative disorder": "cutaneous cd4+ small/medium t-cell lymphoproliferative disorder",
+    "cutaneous cd4+ small/medium-sized t-cell lymphoproliferative disorder": "cutaneous cd4+ small/medium t-cell lymphoproliferative disorder",
+    "cutaneous cd4+ small-medium t-cell lymphoproliferative disorder": "cutaneous cd4+ small/medium t-cell lymphoproliferative disorder",
+
+    "pseudolymphoma caused by leeches (hirudo medicinalis)": "pseudolymphoma caused by leeches (hirudo medicinalis)",
+    "leech-induced pseudolymphoma": "pseudolymphoma caused by leeches (hirudo medicinalis)",
+    "hirudo medicinalis–induced pseudolymphoma": "pseudolymphoma caused by leeches (hirudo medicinalis)",
+
+    "pseudolymphoma associated with tattoo": "pseudolymphoma associated with tattoo",
+    "tattoo-associated pseudolymphoma": "pseudolymphoma associated with tattoo",
+
+    "papuloerythroderma ofuji": "papuloerythroderma ofuji",
+    "papuloerythroderma of ofuji": "papuloerythroderma ofuji",
+    "ofuji disease": "papuloerythroderma ofuji",
+
+    "acral pseudolymphomatous angiokeratoma of childhood (apache)": "acral pseudolymphomatous angiokeratoma of childhood (apache)",
+    "acral pseudolymphomatous angiokeratoma of childhood": "acral pseudolymphomatous angiokeratoma of childhood (apache)",
+    "apache": "acral pseudolymphomatous angiokeratoma of childhood (apache)",
+
+    "angiolymphoid hyperplasia with eosinophilia": "angiolymphoid hyperplasia with eosinophilia",
+    "alhe": "angiolymphoid hyperplasia with eosinophilia",
+
+    "lymphomatoid contact dermatitis": "lymphomatoid contact dermatitis",
+    "lcd": "lymphomatoid contact dermatitis",
+
+    "lymphoplasmacytic plaque": "lymphoplasmacytic plaque",
+
+    "pseudolymphomatous folliculitis": "pseudolymphomatous folliculitis",
+
+    "cutaneous leiomyomatosis": "cutaneous leiomyomatosis (multiple piloleiomyomas)",
+    "multiple piloleiomyomas": "cutaneous leiomyomatosis (multiple piloleiomyomas)",
+    "multiple cutaneous leiomyomas": "cutaneous leiomyomatosis (multiple piloleiomyomas)",
+
+    "csmh": "congenital smooth muscle hamartoma",
+
+    "pen": "palisaded encapsulated neuroma",
+    "solitary circumscribed neuroma": "palisaded encapsulated neuroma",
+
+    "cutaneous neurilemmoma": "cutaneous schwannoma",
+
+    "nf1 (localized neurofibromas)": "neurofibromatosis type 1 (localized neurofibromas)",
+    "neurofibromatosis type i (localized neurofibromas)": "neurofibromatosis type 1 (localized neurofibromas)",
+    "von recklinghausen disease (localized neurofibromas)": "neurofibromatosis type 1 (localized neurofibromas)",
+
+    "mpnst": "malignant peripheral nerve sheath tumor",
+    "malignant schwannoma": "malignant peripheral nerve sheath tumor",
+    "malignant neurilemmoma": "malignant peripheral nerve sheath tumor",
+    "neurofibrosarcoma": "malignant peripheral nerve sheath tumor",
+
+    "meningothelial hamartoma": "meningeal heterotopia",
+    "ectopic meningothelial hamartoma": "meningeal heterotopia",
+    "cutaneous meningioma": "meningeal heterotopia",
+    "ectopic meningioma of the skin": "meningeal heterotopia"
+  
+        
+    },
+  
+    "subtype_map": {
+      "seborrheic keratosis": [
+        "reticulated seborrheic keratosis",
+        "dermatosis papulosa nigra"
+      ],
+  
+      "keratinocytic epidermal nevus": [
+        "nevus unius lateris",
+        "inflammatory linear verrucous epidermal nevus",
+        "nevus comedonicus"
+      ],
+  
+      "trichoepithelioma": [
+      "desmoplastic trichoepithelioma"],
+
+      "actinic keratosis": [
+      "mild actinic keratosis",
+      "hypertrophic actinic keratosis",
+      "actinic cheilitis",
+      "field cancerization",
+      "cutaneous horn",
+      "epidermodysplasia verruciformis",
+      "disseminated arsenic keratoses"
+    ],
+    
+    "bowen disease": [
+      "bowen disease of the nail unit",
+      "genital bowen disease",
+      "erythroplasia of queyrat",
+      "bowenoid papulosis"
+    ],
+    "oral leukoplakia": [
+      "nonhomogeneous oral leukoplakia"],
+    "basal cell carcinoma": [
+      "superficial basal cell carcinoma",
+      "nodular basal cell carcinoma",
+      "rodent ulcer basal cell carcinoma",
+      "condition with scar-like appearance"
+    ],
+    "basal cell nevus syndrome": [
+      "odontogenic keratocyst"
+    ],
+    "squamous cell carcinoma": [
+      "immunosuppression scc",
+      "hyperkeratotic squamous cell carcinoma of the lower lip",
+      "keratoacanthoma"
+    ],
+
+    "paget's disease": [
+      "paget's disease of the nipple",
+      "extramammary paget's disease"
+    ],
+    "extramammary paget's disease": [
+      "perianal extramammary paget's disease"
+    ],
+    "melanocytic nevus": [
+      "giant congenital melanocytic nevus",
+      "familial aggregation of small congenital melanocytic nevi",
+      "congenital divided melanocytic nevus of the eyelid",
+      "nevus spilus",
+      "junctional melanocytic nevus",
+      "compound melanocytic nevus",
+      "halo congenital nevomelanocytic nevus",
+      "halo nevomelanocytic nevus",
+      "pigmented spindle cell nevus",
+      "spitz nevus",
+      "spitz nevus (agminated)",
+      "blue nevus",
+      "common blue nevus",
+      "cellular blue nevus",
+      "combined common blue nevus-melanocytic nevus",
+      "agminated lentigines",
+      "puva-induced lentigines",
+      "solar lentigo",
+      "carney complex (lamb variant)",
+      "lentigines in carney complex",
+      "atypical nevi",
+      "dysplastic nevus"
+    ],
+
+    "melanoma": [
+      "superficial spreading melanoma",
+      "ulcerated amelanotic nodular melanoma",
+      "lentigo maligna melanoma",
+      "pigmented nodular melanoma",
+      "acral lentiginous melanoma",
+      "subungual melanoma",
+      "mucosal melanoma",
+      "conjunctival mucosal melanoma",
+      "melanoma stage iii",
+      "in-transit metastases",
+      "melanoma stage iv",
+      "melanoma satellite metastases",
+      "superficial spreading melanoma (braf v600e)"
+    ],
+    
+
+    "rosai-dorfman disease": [
+      "cutaneous rosai-dorfman disease"
+    ],
+
+    "juvenile xanthogranuloma": [
+      "solitary juvenile xanthogranuloma",
+      "multiple juvenile xanthogranuloma",
+      "congenital juvenile xanthogranuloma",
+      "systemic juvenile xanthogranuloma"
+    ],
+    "infantile hemangioma": [
+      "segmental infantile hemangioma",
+      "segmental infantile hemangioma (involuting phase)",
+      "infantile hemangioma with minimal or abortive growth",
+      "indeterminate infantile hemangioma",
+      "lumbar syndrome",
+      "vision-endangering periocular infantile hemangioma",
+      "vision-endangering segmental infantile hemangioma",
+      "multifocal infantile hemangioma",
+      "infantile hemangioma with ulceration"
+    ],
+    "congenital hemangioma": [
+      "rapidly involuting congenital hemangioma",
+      "noninvoluting congenital hemangioma",
+      "partially involuting congenital hemangioma"
+    ],
+    "kaposiform hemangioendothelioma": [
+      "kasabach-merritt phenomenon"
+    ],
+    "vascular tumor": [
+      "tufted angioma",
+      "pyogenic granuloma"
+    ],
+    "cutaneous t-cell lymphoma": [
+      "mycosis fungoides",
+      "mycosis fungoides (early patch stage)",
+      "mycosis fungoides (tumor stage)",
+      "folliculotropic mycosis fungoides",
+      "pagetoid reticulosis",
+      "granulomatous slack skin",
+      "sezary syndrome",
+      "lymphomatoid papulosis",
+      "primary cutaneous anaplastic large-cell lymphoma",
+      "extranodal nk/t-cell lymphoma, nasal type"
+    ],
+    "mycosis fungoides": [
+      "mycosis fungoides (early patch stage)",
+      "mycosis fungoides (tumor stage)",
+      "folliculotropic mycosis fungoides"
+    ],
+    "cutaneous b-cell lymphoma": [
+      "primary cutaneous follicle center lymphoma",
+      "primary cutaneous diffuse large b-cell lymphoma, leg type"
+    ],
+
+    "cutaneous pseudolymphoma": [
+      "borrelia-associated nodular b-cell lymphoma (lymphocytoma cutis)",
+      "t-cell pseudolymphoma",
+      "cutaneous cd4+ small/medium t-cell lymphoproliferative disorder",
+      "pseudolymphomatous folliculitis",
+      "pseudolymphoma caused by leeches (hirudo medicinalis)",
+      "nodular t-cell pseudolymphoma",
+      "pseudolymphoma associated with tattoo",
+      "lymphomatoid contact dermatitis",
+      "actinic reticuloid",
+      "papuloerythroderma ofuji",
+      "lymphoplasmacytic plaque",
+      "acral pseudolymphomatous angiokeratoma of childhood (apache)",
+      "angiolymphoid hyperplasia with eosinophilia"
+    ],
+    "t-cell pseudolymphoma": [
+      "nodular t-cell pseudolymphoma"
+    ],
+    "cutaneous leiomyoma": [
+      "cutaneous leiomyomatosis (multiple piloleiomyomas)",
+      "congenital smooth muscle hamartoma",
+      "cutaneous leiomyosarcoma"
+    ],
+    "neurofibroma": [
+      "pigmented neurofibroma",
+      "neurofibromatosis type 1 (localized neurofibromas)",
+      "cutaneous schwannoma",
+      "malignant peripheral nerve sheath tumor",
+      "palisaded encapsulated neuroma"
+    ],
+    
+    "histiocytosis": [
+            "langerhans cell histiocytosis",
+            "rosai-dorfman disease",
+            "juvenile xanthogranuloma",
+            "generalized eruptive histiocytoma",
+            "xanthoma disseminatum",
+            "multicentric reticulohistiocytosis",
+            "hereditary progressive mucinous histiocytosis",
+            "single-system langerhans cell histiocytosis",
+            "multisystem langerhans cell histiocytosis",
+            "eosinophilic granuloma",
+            "hand-schüller-christian disease",
+            "letterer-siwe disease",
+            "cutaneous langerhans cell histiocytosis"
+        ],
+    
+    "adnexal cyst": [
+    "epidermoid cyst",
+    "trichilemmal (pilar) cyst",
+    "milia",
+    "steatocystoma multiplex"
+  ],
+  "adnexal tumor (appendage)": [
+    "spiradenoma",
+    "syringoma",
+    "hidrocystoma",
+    "trichoblastoma",
+    "pilomatricoma",
+    "trichilemmoma",
+    "sebaceous adenoma",
+    "syringocystadenoma papilliferum",
+    "sebaceous carcinoma",
+    "nevus sebaceous",
+    "adnexal hamartoma"
+  ]
+
+
+    },
+
+  "benign or precancerous_in_situ or malignant": {
+    "benign": [
+      "seborrheic keratosis",
+      "keratinocytic epidermal nevus",
+      "trichoepithelioma",
+      "melanocytic nevus",
+      "blue nevus",
+      "langerhans cell histiocytosis",
+      "rosai-dorfman disease",
+      "juvenile xanthogranuloma",
+      "infantile hemangioma",
+      "congenital hemangioma",
+      "kaposiform hemangioendothelioma",
+      "vascular tumor",
+      "cutaneous pseudolymphoma",
+      "t-cell pseudolymphoma",
+      "cutaneous leiomyoma",
+      "neurofibroma",
+      "neurofibromatosis",
+      "basal cell nevus syndrome",
+      "lichen striatus",
+    "chondrodermatitis nodularis helicis",
+    "syringocystadenoma papilliferum",
+    "generalized eruptive histiocytoma",
+    "multicentric reticulohistiocytosis",
+    "meningeal heterotopia",
+    "clear cell acanthoma",
+    "nevus sebaceous",
+    "epidermoid cyst",
+    "trichilemmal (pilar) cyst",
+    "milia",
+    "steatocystoma multiplex",
+    "spiradenoma",
+    "syringoma",
+    "hidrocystoma",
+    "trichoblastoma",
+    "pilomatricoma",
+    "trichilemmoma",
+    "sebaceous adenoma",
+    "xanthoma disseminatum",
+    "hereditary progressive mucinous histiocytosis",
+    "neuromuscular hamartoma",
+    "rudimentary polydactyly"
+    ],
+    "precancerous_in_situ": [
+      "actinic keratosis",
+      "bowen disease",
+      "oral leukoplakia"
+    ],
+    "malignant": [
+      "basal cell carcinoma",
+      "squamous cell carcinoma",
+      "paget's disease",
+      "extramammary paget's disease",
+      "melanoma",
+      "cutaneous t-cell lymphoma",
+      "mycosis fungoides",
+      "cutaneous b-cell lymphoma",
+      "merkel cell carcinoma",
+    "sebaceous carcinoma",
+    "blastic plasmacytoid dendritic cell neoplasm",
+    "rhabdomyosarcoma"
+    ]
+  }
+}

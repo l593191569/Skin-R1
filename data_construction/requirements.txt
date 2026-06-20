@@ -1,0 +1,32 @@
+# Dependencies for the Skin-R1 data-construction (SkinRationale) pipeline.
+
+# PDF parsing & image-text extraction (MONET-based)
+PyMuPDF
+pillow
+h5py
+pyyaml
+numpy
+scipy
+scikit-learn
+
+# Feature extraction / clustering (MONET preprocess)
+torch
+torchvision
+safetensors
+transformers==4.39.1
+huggingface-hub==0.22.0
+tokenizers==0.15.2
+ftfy
+regex
+timm  # optional; full MONET classifier training only (Stage 0 featurize uses torchvision + vendored CLIP)
+
+# Data wrangling, graphs & visualization
+pandas
+networkx
+matplotlib
+tqdm
+# seaborn — optional (full MONET training notebooks only; not used by Stage 0 scripts)
+
+# LLM-based rephrasing / DDx extraction / trajectory generation
+openai>=1.0.0
+python-dotenv

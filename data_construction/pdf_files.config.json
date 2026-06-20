@@ -1,0 +1,30 @@
+{
+  "Fitzpatrick's_dermatology_BBC": [
+    {
+      "text_include_list": [],
+      "fontsize_range": [1, 100],
+      "font_list": [],
+      "prioritize_text_under_image": true,
+      "return_all": false
+    }
+  ],
+  "Fitzpatrick's dermatology NEOPLASIA": [
+    {
+      "text_include_list": [],
+      "fontsize_range": [1, 100],
+      "font_list": [],
+      "prioritize_text_under_image": true,
+      "return_all": false
+    }
+  ],
+  "Fitzpatrick's dermatology NEOPLASIA 246": [
+    {
+      "text_include_list": [],
+      "fontsize_range": [1, 100],
+      "font_list": [],
+      "prioritize_text_under_image": true,
+      "return_all": false
+    }
+  ]
+} 
+

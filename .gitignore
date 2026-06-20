@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+*.env
+
+# Caches & HF/torch downloads
+cache/
+.cache/
+hf-cache/
+
+# Training / experiment artifacts
+output/
+outputs/
+logs/
+wandb/
+*.log
+
+# Datasets & large binaries (provide separately)
+dataset/
+datasets/
+# model_training data tree: keep README + .gitkeep placeholders only
+model_training/data/**
+!model_training/data/README.md
+!model_training/data/**/.gitkeep
+*.pdf
+*.hdf5
+*.h5
+*.pt
+*.pkl
+*.ckpt
+*.safetensors
+*.csv
+*.html
+
+# Unified data directory: keep the structure & docs, ignore all contents
+data/**
+!data/README.md
+!data/pdfs/
+!data/pdfs/.gitkeep
+!data/outputs/
+!data/outputs/.gitkeep
+!data/sft_dataset/
+!data/sft_dataset/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
