@@ -142,8 +142,8 @@ Skin-R1 code in this repository (excluding vendored third-party trees such as `d
 
 ```bibtex
 @article{liu2025skin,
-  title={Skin-R1: Toward Trustworthy Clinical Reasoning for Dermatological Diagnosis},
-  author={Liu, Zehao and Ren, Wejieying and Zhang, Jipeng and Zhao, Tianxiang and Zhu, Jingxi and Li, Xiaoting and Honavar, Vasant G},
+  title={Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models},
+  author={Liu, Zehao and Ren, Weijieying and Zhang, Jipeng and Zhao, Tianxiang and Zhu, Jingxi and Li, Xiaoting and Honavar, Vasant G},
   journal={arXiv preprint arXiv:2511.14900},
   year={2025}
 }
