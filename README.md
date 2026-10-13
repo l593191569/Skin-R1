@@ -141,10 +141,12 @@ Skin-R1 code in this repository (excluding vendored third-party trees such as `d
 ## Citation
 
 ```bibtex
-@article{liu2025skin,
+@inproceedings{liu2026skin,
   title={Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models},
   author={Liu, Zehao and Ren, Weijieying and Zhang, Jipeng and Zhao, Tianxiang and Zhu, Jingxi and Li, Xiaoting and Honavar, Vasant G},
-  journal={arXiv preprint arXiv:2511.14900},
-  year={2025}
+  booktitle={European Conference on Computer Vision},
+  pages={1--19},
+  year={2026},
+  organization={Springer}
 }
 ```
